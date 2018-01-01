@@ -35,12 +35,12 @@ body {
         background: #0090aa;
     }
 .cat1 {
-    background: url(https://github.com/RyosukeNishimura/html/cat1.jpg) no-repeat top center;
+    background: url(/var/www/html/cat1.jpg) no-repeat top center;
     background-size: cover;
     color: rgba(255,255,255,.7);
 }
 .cat2 {
-    background: url(https://github.com/RyosukeNishimura/html/cat2.jpg) no-repeat top center;
+    background: url(/var/www/html/cat2.jpg) no-repeat top center;
     background-size: cover;
     color: rgba(0,0,0,.7);
 }
