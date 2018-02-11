@@ -14,4 +14,9 @@ div {
 ol {
   border: 2px skyblue dashed; 
   }
+p.sample {
+color: #000000;
+background-color: #f8dce0;
+background-image: url("background.jpg")
+}
 </style>
