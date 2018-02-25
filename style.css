@@ -19,4 +19,8 @@ color: #000000;
 background-color: #f8dce0;
 background-image: url("background.jpg")
 }
+.whatissoc2 .text {
+	text-align: left;
+	display: inline-block;
+}
 </style>
