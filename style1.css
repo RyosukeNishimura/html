@@ -1,0 +1,21 @@
+﻿<style>
+  body {
+    background: #eeeeee;
+    font-family: Meiryo;
+  }
+  
+ div {
+ 	text-align: left;
+#example p { color: yellow; }
+h1#example1 { color: red; }
+h2#example2 { color: blue; }
+h3#example3 { color: green; }
+}
+
+ div {
+	text-align: right;
+}
+
+
+
+</style>
