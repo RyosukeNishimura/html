@@ -5,7 +5,8 @@
   }
   
  div {
- 	text-align: left;
+  background: #ffffff;
+  text-align: left;
 #example p { color: yellow; }
 h1#example1 { color: red; }
 h2#example2 { color: blue; }
@@ -14,6 +15,11 @@ h3#example3 { color: green; }
 
  div {
 	text-align: right;
+}
+p.sample {
+color: #000000;
+background-color: #f8dce0;
+background-image: url("background.jpg")
 }
 
 
